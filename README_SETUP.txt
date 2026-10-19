@@ -1,0 +1,1 @@
+FaceTrack multi-page version. Copy files into your project, preserving folders. Routes: / home, /register, /recognition, /students, /attendance, /system (extra System Health section). Keep existing students.db and data/faces. Run python app.py, then open http://127.0.0.1:5000. Navigation stays in the same browser tab. Local webcam/database must still be tested on your computer.
